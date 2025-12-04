@@ -5,4 +5,4 @@ Currently working on integrating this model into and android app framework for u
 
 More on Beeware here: [Official Beeware Docs](https://beeware.org/)
 
-Will post more here once this project is complete!
+Will post more in this repo once this project is complete!
